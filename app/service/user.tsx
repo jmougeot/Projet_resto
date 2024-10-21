@@ -20,5 +20,3 @@ class Firebase extends Component {
     }   
 }
 export default Firebase;*/
-
-import React,{ Component } from 'react';
