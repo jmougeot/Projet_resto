@@ -1,4 +1,4 @@
-import React,{ Component } from 'react';
+/*import React,{ Component } from 'react';
 import { View, Text, Button } from 'react-native';
 import firestore from '@react-native-firebase/firestore';
 
@@ -19,4 +19,6 @@ class Firebase extends Component {
         );
     }   
 }
-export default Firebase;
+export default Firebase;*/
+
+import React,{ Component } from 'react';
